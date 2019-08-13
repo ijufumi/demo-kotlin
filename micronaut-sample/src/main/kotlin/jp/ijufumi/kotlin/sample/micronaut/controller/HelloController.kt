@@ -1,8 +1,8 @@
-package micronaut.sample.controller
+package jp.ijufumi.kotlin.sample.micronaut.controller
 
 import io.micronaut.http.annotation.Controller
 import io.micronaut.http.annotation.Get
-import micronaut.sample.service.HelloService
+import jp.ijufumi.kotlin.sample.micronaut.service.HelloService
 
 @Controller("/hello")
 class HelloController (val helloService: HelloService){

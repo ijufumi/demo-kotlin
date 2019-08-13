@@ -44,7 +44,7 @@ dependencies {
 
 test.classpath += configurations.developmentOnly
 
-mainClassName = "micronaut.sample.Application"
+mainClassName = "jp.ijufumi.kotlin.sample.micronaut.Application"
 
 test {
     useJUnitPlatform()

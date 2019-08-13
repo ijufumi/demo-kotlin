@@ -1,4 +1,4 @@
-package micronaut.sample
+package jp.ijufumi.kotlin.sample.micronaut
 
 import io.micronaut.runtime.Micronaut
 

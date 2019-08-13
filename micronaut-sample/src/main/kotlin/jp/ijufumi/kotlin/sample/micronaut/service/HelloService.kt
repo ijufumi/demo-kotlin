@@ -1,4 +1,4 @@
-package micronaut.sample.service
+package jp.ijufumi.kotlin.sample.micronaut.service
 
 import javax.inject.Singleton
 
